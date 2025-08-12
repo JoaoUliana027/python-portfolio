@@ -3,29 +3,32 @@
 A collection of Python projects developed to practice programming, logic, and application development.  
 Each project was created as part of my learning journey and skill improvement.  
 
----
+---  
 
 ## 📂 Projects  
 
 ### 🧮 Calculator  
-A simple Python calculator for basic mathematical operations.  
-**Goal:** Practice logic and input handling in the terminal.  
+A command-line Python program implementing basic arithmetic operations (addition, subtraction, multiplication, division).  
+**Technologies:** Python 3  
+**Focus:** Handling user input, control flow, and arithmetic logic in a console environment.  
 
 ### 📝 To-Do List  
-A task management web application built with Flask.  
-**Goal:** Learn the fundamentals of web development with Python.  
+A full-stack web application built with Flask to manage task creation, completion, and deletion, using server-side rendering and state persistence.  
+**Technologies:** Python 3, Flask, HTML, CSS  
+**Focus:** Web development fundamentals including routing, templating with Jinja2, form handling, and basic CRUD operations.  
 
 ### 🔄 Unit Converter  
-A sleek and user-friendly web application to convert between various units of measurement, including length, weight, and temperature.  
-**Goal:** Practice building interactive web applications with Flask while improving user input handling and front-end styling.  
+A Flask-based web application for converting units of length, weight, and temperature. Implements a modular Python backend for conversion logic and a responsive front-end with custom CSS styling.  
+**Technologies:** Python 3, Flask, HTML, CSS  
+**Focus:** Building interactive web tools, input validation, modular code design, and front-end UI/UX improvements.  
 
----
+---  
 
 ## 🛠 Technologies  
 - **Python 3**  
 - **Flask**  
 - **HTML & CSS**  
 
----
+---  
 
 💡 *This repository will be updated as new projects are developed.*  
